@@ -1598,3 +1598,13 @@ section {
 #footer .footer-links a:hover {
   color: #3498db;
 }
+
+
+.paraph {
+  text-align: justify;
+  margin-bottom: 5px;
+}
+
+h2 {
+  margin: 10px;
+}
